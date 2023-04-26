@@ -1,0 +1,6 @@
+arb-dir: lib/src/l10n
+template-arb-file: messages_uk.arb
+output-localization-file: ui_lib_localizations.dart
+output-class: UILibraryLocalizations
+synthetic-package: false
+nullable-getter: false

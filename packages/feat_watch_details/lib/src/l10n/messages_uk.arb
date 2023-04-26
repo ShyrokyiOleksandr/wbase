@@ -1,0 +1,45 @@
+{
+ "titleMessage": "Модель вашого годинника:",
+ "applyForEstimateAction": "Замовити оцінку годинника",
+ "monthsEnding": "місяців",
+
+ "sectionMainCharacteristics": "Основні характеристики",
+ "paramGender": "Стать",
+ "paramModel": "Модель",
+ "paramWarranty": "Гарантія",
+ "paramBrand": "Бренд",
+ "paramCollection": "Колекція",
+ "paramVersion": "Версія",
+ "paramGlass": "Скло",
+ "paramTimeFormat": "Формат часу",
+ "paramState": "Стан",
+
+ "sectionMechanism": "Механізм",
+ "paramType": "Тип",
+ "paramCountry": "Країна",
+
+
+ "sectionDial": "Циферблат",
+ "paramDialColor": "Колір циферблату",
+ "paramIndexView": "Вид індексації",
+ "paramIndexType": "Тип індексації",
+
+ "sectionCase": "Корпус",
+ "paramCaseDiameter": "Діметр корпусу",
+ "paramCaseMaterial": "Матеріал корпусу",
+ "paramCaseColor": "Колір копусу",
+ "paramCaseShape": "Форма корпусу",
+ "paramWaterResistance": "Водостійкість",
+ "paramCaseHeight": "Товщина",
+ "paramCaseWeight": "Вага",
+
+
+ "sectionBracelet": "Браслет",
+ "paramBraceletOrBelt": "Браслет/Ремінець",
+ "paramBraceletMaterial": "Матеріал",
+
+
+ "sectionExtraCharacteristics": "Додаткові характеристики",
+ "paramAntiGlare": "Антивідблискування",
+ "paramDateIndex": "Індикація дати"
+}

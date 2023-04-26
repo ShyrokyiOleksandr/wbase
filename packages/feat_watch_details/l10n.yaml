@@ -1,0 +1,6 @@
+arb-dir: lib/src/l10n
+template-arb-file: messages_uk.arb
+output-localization-file: watch_details_localizations.dart
+output-class: WatchDetailsLocalizations
+synthetic-package: false
+nullable-getter: false

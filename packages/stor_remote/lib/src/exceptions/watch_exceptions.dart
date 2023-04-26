@@ -1,0 +1,1 @@
+class WatchNotFoundRemoteException implements Exception {}

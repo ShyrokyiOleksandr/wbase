@@ -1,0 +1,10 @@
+{
+    "scannerScreenNormalizeMessage" :  "Розташуйте годинник, щоб лице корпусу співпало з контуром. Коли контур стане зеленим - зробіть фото.",
+    "scannerBottomSheetTitle": "Схоже, що ваш годинник",
+    "scannerBottomSheetOpenWatchDetailsAction": "Переглянути деталі",
+    "scannerBottomSheetTryAgainAction": "Cпробувати ще раз",
+    "scannerBottomSheetModelUndefinedMessage": "Нажаль модель не визначено ",
+    "scannerBottomSheetUseWatchExpertMessage": "Ви можете скористатись сервісом WatchExpert24 для продажу чи купівлі годинників",
+    "scannerBottomSheetInHandAction": "Внести дані вручну"
+
+}

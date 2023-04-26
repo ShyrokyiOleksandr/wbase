@@ -1,0 +1,6 @@
+arb-dir: lib/src/l10n
+template-arb-file: messages_uk.arb
+output-localization-file: scan_history_localizations.dart
+output-class: ScanHistoryLocalizations
+synthetic-package: false
+nullable-getter: false

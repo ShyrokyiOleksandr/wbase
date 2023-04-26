@@ -1,0 +1,6 @@
+{
+    "tryAgainAction": "Спробувати ще раз",
+    "inHandAction": "Внести дані вручну",
+    "textFieldPhoneLabel": "Номер телефону",
+    "textFieldPhoneHint": "Введіть ваш номер телефону"
+}

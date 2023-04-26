@@ -1,0 +1,9 @@
+export 'src/entities/scan_history/scan_history_item.dart';
+export 'src/entities/watch/watch.dart';
+export 'src/exceptions/app_exception.dart';
+export 'src/repositories/i_scan_history_repository.dart';
+export 'src/repositories/i_watch_repository.dart';
+export 'src/service_locator.dart';
+export 'src/use_cases/scan_history/add_watch_to_history_use_case.dart';
+export 'src/use_cases/scan_history/get_scan_history_use_case.dart';
+export 'src/use_cases/watch/get_watch_details_use_case.dart';

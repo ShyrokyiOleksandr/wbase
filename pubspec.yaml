@@ -1,0 +1,58 @@
+name: wbase
+description: Detect your watch
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.17.0
+  get_it: ^7.2.0
+  routemaster: ^1.0.1
+
+
+  # ui components library:
+  ui_lib:
+    path: packages/ui_lib
+
+  #features:
+  feat_watch_scanner:
+    path: packages/feat_watch_scanner
+  feat_watch_details:
+    path: packages/feat_watch_details
+  feat_scan_history:
+    path: packages/feat_scan_history
+  feat_profile:
+    path: packages/feat_profile
+
+  # domain
+  kern_domain:
+    path: packages/kern_domain
+
+  # repositories
+  repo_watch:
+    path: packages/repo_watch
+  repo_scan_history:
+    path: packages/repo_scan_history
+
+  #storages
+  stor_remote:
+    path: packages/stor_remote
+
+
+dev_dependencies:
+  flutter_lints: ^2.0.1
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
